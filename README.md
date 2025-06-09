@@ -1,6 +1,6 @@
 # Heart Disease Data Visualization Dashboard
 
-An interactive dashboard built with Dash and Plotly for visualizing global heart disease data trends and patterns. The project is deployed using AWS Elastic Beanstalk and features a modular, responsive design with interactive visualizations.
+An interactive dashboard built with Dash and Plotly for visualizing global heart disease data trends and patterns. The project is deployed using Google Cloud Platform and features a modular, responsive design with interactive visualizations.
 
 ## Table of Contents
 
