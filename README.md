@@ -28,7 +28,7 @@ This dashboard provides an interactive way to explore heart disease data worldwi
 - **Responsive Design**: Optimized for small and large screens using Bootstrap
 - **Dynamic Filtering**: Sliders for year selection and top N filtering
 - **Modular Codebase**: Organized for scalability and ease of maintenance
-- **AWS Deployment**: Hosted on AWS Elastic Beanstalk with Flask
+- **GCP Deployment**: Hosted on Google Cloud Platform
 
 ## Project Structure
 
@@ -58,7 +58,6 @@ heart-disease/
 │   ├── heart_processed.csv      # Processed heart disease data
 │   └── trends.csv              # Time series data
 ├── documentation/       # Project documentation
-├── .ebextensions/       # AWS Elastic Beanstalk configuration
 ├── .platform/          # Platform configuration
 ├── Pipfile             # Dependencies management
 ├── Pipfile.lock        # Locked dependencies
@@ -77,12 +76,12 @@ heart-disease/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/DerekAmuna/heart-disease.git
-   cd heart-disease
+   git clone https://github.com/PaulaBesst/global_heart_disease_analysis-visualization.git
+   cd global-heart-disease
    ```
 2. Install dependencies:
    ```bash
-   pipenv install
+   pipenv install -r requirements.txt
    ```
 3. Run the application locally:
    ```bash
