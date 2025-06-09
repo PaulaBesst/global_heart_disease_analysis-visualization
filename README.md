@@ -12,7 +12,6 @@ An interactive dashboard built with Dash and Plotly for visualizing global heart
 - [Data Processing](#data-processing)
 - [Dashboard Overview](#dashboard-overview)
 - [Technical Details](#technical-details)
-- [Deployment](#deployment)
 - [Development Guidelines](#development-guidelines)
 - [Acknowledgments](#acknowledgments)
 
